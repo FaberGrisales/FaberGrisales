@@ -32,7 +32,10 @@ Software Development Technician from SENA
     
 🌟 Additional Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=npm,nodejs,postman,powershell,vscode,ubuntu,windows,aws,azure,bash,docker,eclipse,figma,idea,laravel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=npm,nodejs,postman,powershell)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,ubuntu,windows,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=azure,bash,docker,eclipse,figma,idea,laravel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,idea,laravel)](https://skillicons.dev)
 
 📚 Certifications:
 
