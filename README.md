@@ -15,9 +15,9 @@ Hi there!  <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/mast
 ### Frontend Development
 [![My Skills](https://skillicons.dev/icons?i=angular,react,js,ts,html,css,bootstrap,jquery)](https://skillicons.dev)
 ### Backend Development
-[![My Skills](https://skillicons.dev/icons?i=java,cs,dotnet,php,spring)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,cs,dotnet,php,python,spring,fastapi)](https://skillicons.dev)
 ### Database Management
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,firebase)](https://skillicons.dev)
 ### Version Control
 [![My Skills](https://skillicons.dev/icons?i=github,gitlab)](https://skillicons.dev)
 
@@ -35,14 +35,21 @@ Software Development Technician from SENA
 [![My Skills](https://skillicons.dev/icons?i=npm,nodejs,postman,powershell)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=vscode,ubuntu,windows,aws)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=azure,bash,docker,eclipse,figma,idea,laravel)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=figma,idea,laravel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kali,arch,debian,linux)](https://skillicons.dev)
 
 📚 Certifications:
 
-Introduction to Backend Development (Platzi)
-Object Oriented Programming (Platzi)
-ECMAScript+6 (Platzi)
-Basic JavaScript (Platzi)
+- [Curso de Prework: Configuración de Entorno de Desarrollo en Windows](https://platzi.com/p/FaberGrisales/curso/2042-course/diploma/detalle/)
+- [Curso de Frontend Developer 2019](https://platzi.com/p/FaberGrisales/curso/1640-course/diploma/detalle/)
+- [Fundamentos de JavaScript 2018](https://platzi.com/p/FaberGrisales/curso/1339-course/diploma/detalle/)
+- [Curso Práctico de React JS 2019](https://platzi.com/p/FaberGrisales/curso/1651-course/diploma/detalle/)
+- [Curso de Programación Orientada a Objetos: POO](https://platzi.com/p/FaberGrisales/curso/1474-course/diploma/detalle/)
+- [Curso de Introducción al Desarrollo Backend](https://platzi.com/p/FaberGrisales/curso/2508-course/diploma/detalle/)
+- [Curso de Introducción a la Terminal y Línea de Comandos 2019](https://platzi.com/p/FaberGrisales/curso/1748-course/diploma/detalle/)
+- [Curso de Asincronismo con JavaScript 2019](https://platzi.com/p/FaberGrisales/curso/1789-course/diploma/detalle/)
+- [Curso Básico de Programación](https://platzi.com/p/FaberGrisales/curso/1050-course/diploma/detalle/)
+- [Curso Básico de JavaScript](https://platzi.com/p/FaberGrisales/curso/1814-course/diploma/detalle/)
+- [N8N: Crea Agentes de IA sin código](https://www.udemy.com/certificate/UC-30c0c691-9a3e-489e-bfca-0f3e844cde2c/)
 
 ---
 
