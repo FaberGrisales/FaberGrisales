@@ -64,7 +64,7 @@ I'm passionate about creating high-quality, efficient code and continuously impr
 ---
 
 ![walleeva2018 GitHub stats](https://github-readme-stats.vercel.app/api?username=FaberGrisales&show_icons=true&theme=radical)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FaberGrisales&theme=blueberry-duo&hide_border=true&border_radius=6&date_format=M%20j%5B%2C%20Y%5D&card_width=504)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FaberGrisales&theme=blueberry-duo&hide_border=true&border_radius=6&date_format=M%20j%5B%2C%20Y%5D&card_width=504)
 
 ---
 
